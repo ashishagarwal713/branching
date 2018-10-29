@@ -8,7 +8,6 @@ public class ArrayListEx {
 		ArrayList<String> list = new ArrayList <String>();
 		ArrayList<String> list1 = new ArrayList <String>();
 		list.add("Jerin");
-		list.add("Sachin");
 		list1.addAll(list);
 		
 		Iterator i = list.iterator();

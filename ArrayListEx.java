@@ -9,6 +9,7 @@ public class ArrayListEx {
 		ArrayList<String> list1 = new ArrayList <String>();
 		list.add("Jerin");
 		list.add("Sachin");
+		list.add("Ashish");
 		list1.addAll(list);
 		
 		Iterator i = list.iterator();
